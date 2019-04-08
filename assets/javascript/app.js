@@ -49,7 +49,7 @@ $("#start").on("click", function() {
       question:
         "Who was the first player selected by the Dallas Cowboys in an NFL Draft?",
       answers: ["Don Meredith", "Don Perkins", "Mel Renfro", "Bob Lilly"],
-      correctAnswer: "Emmitt Smith"
+      correctAnswer: "Bob Lilly"
     },
     {
       question:
